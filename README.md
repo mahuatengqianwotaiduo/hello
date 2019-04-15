@@ -1,2 +1,2 @@
 # hello
-just another respon
+just another responsibility
